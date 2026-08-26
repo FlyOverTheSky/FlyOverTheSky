@@ -82,7 +82,7 @@ With an educational background in **Information Security and Systems Monitoring*
 ---
 
 ### 🤝 Get in Touch!
-I am always open to discussing backend architectures, high-load optimizations, system monitoring, and interesting Python/Go/DevSecOps opportunities.
+I am always open to discussing backend architectures, high-load optimizations, system monitoring, and interesting Python opportunities.
 
 * **Telegram:** [@AVCAMID](https://t.me/AVCAMID) 💬 (Preferred contact method)
 * **Email:** [sashka.sheshenin@gmail.com](mailto:sashka.sheshenin@gmail.com) 📧

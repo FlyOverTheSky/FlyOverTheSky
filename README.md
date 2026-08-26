@@ -62,7 +62,7 @@ Based in Belgrade, Serbia.
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FlyOverTheSky&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Alexandr's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FlyOverTheSky&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Alexander's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlyOverTheSky&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
